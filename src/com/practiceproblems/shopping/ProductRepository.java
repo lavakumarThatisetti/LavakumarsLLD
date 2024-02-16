@@ -1,7 +1,5 @@
 package com.practiceproblems.shopping;
 
-import jdk.internal.org.objectweb.asm.Handle;
-
 import java.util.List;
 
 public class ProductRepository {
